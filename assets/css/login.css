@@ -147,5 +147,8 @@ input[type="checkbox"] {
     {
         background-image: none;
     }
-  
+    .login-form
+    {
+        width: 120%;
+    }
   }
