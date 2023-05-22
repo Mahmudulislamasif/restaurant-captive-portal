@@ -146,10 +146,10 @@ input[type="checkbox"] {
     body
     {
         background-image: none;
-        background:#22d3ee;
     }
     .login-form
     {
         width: 100%;
+        overflow-y: scroll;
     }
   }
