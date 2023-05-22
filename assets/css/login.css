@@ -106,7 +106,16 @@ input[type="checkbox"] {
 {
     margin-top: 10px;
 }
-
+.bubble
+{
+    position: relative;
+    width: 80px;
+    height: 100px;
+    left: -20px;
+    background-image: linear-gradient(to left,#22d3ee,#0891b2);
+    border-radius: 100px 100px 0 0;
+    transform: rotate(90deg);
+}
 @media screen and (max-width: 692px) {
 
     .login-form
