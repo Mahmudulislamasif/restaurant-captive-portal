@@ -147,9 +147,5 @@ input[type="checkbox"] {
     {
         background-image: none;
     }
-    .login-form
-    {
-        width: 100%;
-        overflow-y: scroll;
-    }
+  
   }
