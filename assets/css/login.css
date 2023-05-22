@@ -116,10 +116,35 @@ input[type="checkbox"] {
     border-radius: 100px 100px 0 0;
     transform: rotate(90deg);
 }
+.hr-tag
+{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   margin-top: 10px;
+}
+.hr-left
+{
+    width: 50%;
+    background: #b7c9cc71;
+    height: 1px;
+}
+.hr-tag h2
+{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.hr-right
+{
+    width: 50%;
+    background: #b7c9cc71;
+    height: 1px;
+}
 @media screen and (max-width: 692px) {
 
     .login-form
     {
         width: 100%;
+        height: 100%;
     }
   }
