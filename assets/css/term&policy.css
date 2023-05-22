@@ -1,0 +1,33 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    padding: 20px;
+}
+.policy-container
+{
+    max-width: 1140px;
+    margin: 0 auto;
+    border: 2px solid gray;
+    border-radius: 5px;
+}
+.policy-container h1
+{
+    text-align: center;
+    color: white;
+    padding: 10px;
+    font-weight: 700;
+    background: #3f2b65;
+}
+.policy-container p
+{
+    padding: 10px;
+    text-align: justify;
+
+}

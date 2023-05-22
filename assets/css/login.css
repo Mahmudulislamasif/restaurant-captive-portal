@@ -108,6 +108,7 @@ input[type="checkbox"] {
 }
 
 @media screen and (max-width: 692px) {
+
     .login-form
     {
         width: 100%;
